@@ -22,7 +22,7 @@ def execute_social_media_writer_prompty(research_context: str, research, social_
 
     return reseponse
 
-def run_social_media_agent(instructions: str, social_media_instructions: str):
+def run_social_media_agent(instructions: str, social_media_instructions: str, count):
     """
     Run the social media agent
 
